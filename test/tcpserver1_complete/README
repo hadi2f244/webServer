@@ -1,0 +1,3 @@
+This is threaded server that can compile php!
+But it isn't using threadpool & it isn't use php api commands directly !
+so it cann't control number of socket  & it will be crashed if be overloaded.
